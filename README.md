@@ -1,4 +1,4 @@
-# ⚖️ Neurojurist ФЗ-229 (RAG AI Assistant)
+# ⚖️ Нейроюрист ФЗ-229 (RAG AI Assistant)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
